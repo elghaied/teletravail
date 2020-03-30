@@ -3,7 +3,6 @@
 }
 
 body {
-  overflow: hidden;
   font-family: sans-serif;
 }
 
@@ -28,7 +27,6 @@ body {
     display: block;
     pointer-events: none;
     stroke: currentcolor;
-    vertical-align: middle;
     height: 32px;
     width: 32px;
     transition: 0.2s 0.5s stroke ease-in-out;
